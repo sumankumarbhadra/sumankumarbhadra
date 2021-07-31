@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suman Kumar Bhadra
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning MERN stack.
 <!--
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
